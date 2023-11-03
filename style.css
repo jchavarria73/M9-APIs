@@ -1,0 +1,13 @@
+body {
+  width: 99vw;
+}
+
+#map {
+  width: 90%;
+  height: 80%;
+  margin: auto;
+}
+  
+h1 {
+  text-align: center;
+}
